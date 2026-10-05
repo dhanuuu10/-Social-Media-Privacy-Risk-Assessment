@@ -1,0 +1,16 @@
+profile_id,profile_type,profile_visibility,personal_information,location_exposure,mfa_enabled,public_contact,unknown_connections,risk_score,risk_level
+DEMO001,Synthetic,Private,Low,Never,Yes,No,Rarely,12,LOW
+DEMO002,Synthetic,Friends Only,Limited,Rarely,Yes,No,Verified,18,LOW
+DEMO003,Synthetic,Partially Public,Some,Sometimes,Yes,No,Sometimes,34,MODERATE
+DEMO004,Synthetic,Public,Some,Often,Yes,Yes,Sometimes,48,HIGH
+DEMO005,Synthetic,Public,High,Frequent,No,Yes,Often,76,CRITICAL
+DEMO006,Synthetic,Friends Only,Limited,Rarely,Yes,No,Verified,22,MODERATE
+DEMO007,Synthetic,Partially Public,Some,Sometimes,No,Yes,Sometimes,55,HIGH
+DEMO008,Synthetic,Private,Low,Never,Yes,No,Rarely,8,LOW
+DEMO009,Synthetic,Public,High,Frequent,No,Yes,Often,84,CRITICAL
+DEMO010,Synthetic,Partially Public,Some,Sometimes,Yes,Yes,Sometimes,43,HIGH
+DEMO011,Synthetic,Friends Only,Limited,Rarely,Yes,No,Verified,27,MODERATE
+DEMO012,Synthetic,Public,High,Frequent,No,Yes,Often,91,CRITICAL
+DEMO013,Synthetic,Private,Low,Never,Yes,No,Rarely,10,LOW
+DEMO014,Synthetic,Partially Public,Some,Sometimes,Yes,No,Sometimes,39,MODERATE
+DEMO015,Synthetic,Public,Some,Often,No,Yes,Often,68,HIGH
